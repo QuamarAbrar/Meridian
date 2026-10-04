@@ -1,0 +1,11 @@
+{
+  "title": "Meridian | Furniture for a slower life",
+  "description": "Thoughtfully designed furniture, natural materials, and inspiration for slower living.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
